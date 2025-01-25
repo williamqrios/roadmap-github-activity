@@ -1,4 +1,4 @@
-### Expense Tracker
+### GitHub User Activity CLI App
 Project inspiration taken from [roadmap.sh](https://roadmap.sh/projects/github-user-activity). Built with Rust 1.84.0. 
 
 ### Usage
